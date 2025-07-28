@@ -1,0 +1,117 @@
+✅ Admin Dashboard Menu – Online Admission System
+1. Dashboard
+Admission Overview (Applied, Approved, Rejected, Pending)
+
+Latest Applications
+
+Current Admission Session
+
+Quick Links (Form Setup, Result Publish, Reports)
+
+2. Admission Sessions
+List of Admission Years / Terms
+
+Add New Session
+
+Session Status (Open / Closed)
+
+3. Applications
+All Applications List
+
+Filter by: Class, Gender, Status, Date
+
+Application Details View
+
+Edit / Update Info
+
+Status Change: Approve / Reject / Waiting
+
+Manual Application Entry
+
+Application Print / Export
+
+4. Form Builder / Setup
+Customize Admission Form Fields
+
+Required Fields Toggle
+
+Upload Field Setup (Photo, Certificates)
+
+Terms & Conditions Editor
+
+5. Eligibility Criteria
+Define Admission Rules per Class
+
+Age Limits / GPA / Prerequisites
+
+Automated Eligibility Check (Optional)
+
+6. Document Management
+Required Documents Settings
+
+Document Upload Checker (per application)
+
+View / Verify Uploaded Files
+
+7. Merit List & Selection
+Auto Merit List Generator (based on GPA/Marks)
+
+Manual Ranking Option
+
+Publish Result
+
+Waiting List
+
+Result PDF/CSV Export
+
+8. Payments
+Fee Setup (per Class/Group)
+
+View Payment Status
+
+Payment Gateway Integration (SSLCommerz, Stripe, etc.)
+
+Payment Reports
+
+Pending / Completed / Failed Transactions
+
+9. Notifications / Communication
+Send SMS / Email to Applicants
+
+Bulk Notification Tool (Filter by Status)
+
+Admission Updates / Reminders
+
+10. Reports
+Application Report (Class-wise, Gender-wise)
+
+Status Summary
+
+Payment Report
+
+Export All Data (CSV, Excel, PDF)
+
+11. Users & Roles
+Admin Users
+
+Admission Officers
+
+Role-based Access Control
+
+12. Settings
+Institute Info (Logo, Name, Address)
+
+Admission Deadline / Open Status
+
+Language & Branding
+
+SMS / Email Gateway Setup
+
+13. Help & Support
+Admission Guidelines Editor
+
+FAQ Manager
+
+User Manuals / Training Videos
+
+14. Logout
